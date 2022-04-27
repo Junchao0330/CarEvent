@@ -1,0 +1,44 @@
+﻿  event.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\eigen-3.4.0\Eigen\src\Core\arch\Default\Half.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Program Files\Microsoft Visual Studio\2022\Community\eigen-3.4.0\Eigen\src\Core\arch\Default\BFloat16.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Program Files\Microsoft Visual Studio\2022\Community\eigen-3.4.0\Eigen\src\Core\arch\Default\GenericPacketMathFunctions.h(676,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\wangj\source\repos\event\event.cpp(44,57): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\wangj\source\repos\event\event.cpp(68,51): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\wangj\source\repos\event\event.cpp(83,22): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\wangj\source\repos\event\event.cpp(84,102): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\wangj\source\repos\event\event.cpp(84,81): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\wangj\source\repos\event\event.cpp(94,22): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\wangj\source\repos\event\event.cpp(96,102): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\wangj\source\repos\event\event.cpp(96,81): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\wangj\source\repos\event\event.cpp(104,36): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\wangj\source\repos\event\event.cpp(107,37): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\wangj\source\repos\event\event.cpp(110,37): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\wangj\source\repos\event\event.cpp(122,22): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\wangj\source\repos\event\event.cpp(123,102): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\wangj\source\repos\event\event.cpp(123,81): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\wangj\source\repos\event\event.cpp(139,36): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\wangj\source\repos\event\event.cpp(144,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\wangj\source\repos\event\event.cpp(297,49): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\wangj\source\repos\event\event.cpp(300,20): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\wangj\source\repos\event\event.cpp(301,268): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\wangj\source\repos\event\event.cpp(301,188): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\wangj\source\repos\event\event.cpp(302,284): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\wangj\source\repos\event\event.cpp(302,204): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\wangj\source\repos\event\event.cpp(351,45): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\wangj\source\repos\event\event.cpp(358,57): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\wangj\source\repos\event\event.cpp(364,148): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\wangj\source\repos\event\event.cpp(378,31): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\wangj\source\repos\event\event.cpp(387,29): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\wangj\source\repos\event\event.cpp(393,31): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\wangj\source\repos\event\event.cpp(396,17): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\wangj\source\repos\event\event.cpp(399,27): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\wangj\source\repos\event\event.cpp(422,28): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  kalman.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\eigen-3.4.0\Eigen\src\Core\arch\Default\Half.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Program Files\Microsoft Visual Studio\2022\Community\eigen-3.4.0\Eigen\src\Core\arch\Default\BFloat16.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Program Files\Microsoft Visual Studio\2022\Community\eigen-3.4.0\Eigen\src\Core\arch\Default\GenericPacketMathFunctions.h(676,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  正在生成代码...
+C:\Users\wangj\source\repos\event\event.cpp(18): warning C4715: “Event::getX”: 不是所有的控件路径都返回值
+C:\Users\wangj\source\repos\event\event.cpp(26): warning C4715: “Event::getY”: 不是所有的控件路径都返回值
+C:\Users\wangj\source\repos\event\event.cpp(221): warning C4715: “EventList::enterMixZone”: 不是所有的控件路径都返回值
+  event.vcxproj -> C:\Users\wangj\source\repos\event\x64\Debug\event.exe
