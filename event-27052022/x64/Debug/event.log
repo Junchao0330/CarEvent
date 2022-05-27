@@ -1,0 +1,21 @@
+﻿  event.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\eigen-3.4.0\Eigen\src\Core\arch\Default\Half.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Program Files\Microsoft Visual Studio\2022\Community\eigen-3.4.0\Eigen\src\Core\arch\Default\BFloat16.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Program Files\Microsoft Visual Studio\2022\Community\eigen-3.4.0\Eigen\src\Core\arch\Default\GenericPacketMathFunctions.h(676,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\wangj\source\repos\event\event.cpp(51,57): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\wangj\source\repos\event\event.cpp(91,102): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\wangj\source\repos\event\event.cpp(91,81): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\wangj\source\repos\event\event.cpp(102,102): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\wangj\source\repos\event\event.cpp(102,81): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\wangj\source\repos\event\event.cpp(129,102): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\wangj\source\repos\event\event.cpp(129,81): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\wangj\source\repos\event\event.cpp(399,41): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\wangj\source\repos\event\event.cpp(440,5): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\wangj\source\repos\event\event.cpp(467,44): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\wangj\source\repos\event\event.cpp(492,29): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\wangj\source\repos\event\event.cpp(499,27): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\wangj\source\repos\event\event.cpp(33): warning C4715: “Event::getY”: 不是所有的控件路径都返回值
+C:\Users\wangj\source\repos\event\event.cpp(25): warning C4715: “Event::getX”: 不是所有的控件路径都返回值
+C:\Users\wangj\source\repos\event\event.cpp(251): warning C4715: “EventList::enteredMixZone”: 不是所有的控件路径都返回值
+C:\Users\wangj\source\repos\event\event.cpp(268): warning C4715: “EventList::enteringMixZone”: 不是所有的控件路径都返回值
+  event.vcxproj -> C:\Users\wangj\source\repos\event\x64\Debug\event.exe
