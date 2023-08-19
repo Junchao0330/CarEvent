@@ -1,0 +1,33 @@
+﻿  randomTrips.cpp
+C:\Users\wangj\source\repos\RandomTrips\randomTrips.cpp(27,12): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\wangj\source\repos\RandomTrips\randomTrips.cpp(28,12): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\wangj\source\repos\RandomTrips\randomTrips.cpp(53,16): warning C4244: “初始化”: 从“_Rep”转换到“unsigned int”，可能丢失数据
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+C:\Users\wangj\source\repos\RandomTrips\randomTrips.cpp(81,20): warning C4244: “初始化”: 从“_Rep”转换到“unsigned int”，可能丢失数据
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+C:\Users\wangj\source\repos\RandomTrips\randomTrips.cpp(84,12): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\wangj\source\repos\RandomTrips\randomTrips.cpp(92,20): warning C4244: “初始化”: 从“_Rep”转换到“unsigned int”，可能丢失数据
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+C:\Users\wangj\source\repos\RandomTrips\randomTrips.cpp(95,12): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\wangj\source\repos\RandomTrips\randomTrips.cpp(114,23): warning C4244: “初始化”: 从“_Rep”转换到“unsigned int”，可能丢失数据
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+C:\Users\wangj\source\repos\RandomTrips\randomTrips.cpp(116,63): warning C4244: “参数”: 从“unsigned __int64”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\wangj\source\repos\RandomTrips\randomTrips.cpp(117,30): warning C4244: “参数”: 从“double”转换到“const unsigned __int64”，可能丢失数据
+C:\Users\wangj\source\repos\RandomTrips\randomTrips.cpp(47): warning C4715: “isNotEdge”: 不是所有的控件路径都返回值
+  RandomTrips.vcxproj -> C:\Users\wangj\source\repos\RandomTrips\x64\Debug\RandomTrips.exe
