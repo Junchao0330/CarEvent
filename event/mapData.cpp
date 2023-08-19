@@ -11,7 +11,7 @@ vector<roadSq> MapData::ReadMapData(const char* fileName)
 		throw("can not open the file.");
 	}
 	int temRoadNum;
-	float tempX, tempY;
+	double tempX, tempY;
 	int temSeq;
 	int temRoadType; //Edge=1, Junction entrance=2, Junction exit = 3, Normal=0
 	roadSq r;

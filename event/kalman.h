@@ -8,6 +8,8 @@
 #include "carData.h"
 #include <vector>
 #include <math.h>
+#include <random>
+#include <chrono>
 
 using namespace Eigen;
 using namespace std;
@@ -16,7 +18,7 @@ struct proTable
 {
     int lastPseu;
     int nextPseu;
-    float probability;
+    double probability;
 };
 
 class KalmanFilter
@@ -42,7 +44,7 @@ public:
     Eigen::VectorXd predict(Eigen::MatrixXd& A_);
     Eigen::VectorXd predict(Eigen::MatrixXd& A_, Eigen::MatrixXd& B_, Eigen::VectorXd& u_);
     Eigen::MatrixXd update(Eigen::MatrixXd& H_, Eigen::VectorXd z_meas);
-    vector<proTable> kalmanPrediction(vector<beacon> tenBeacon, vector<beacon> measure);
+    vector<proTable> kalmanPrediction(vector<beacon> tenBeacon, beacon);
 };
 
 #endif

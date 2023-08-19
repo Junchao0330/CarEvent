@@ -2,7 +2,7 @@
 #include <iostream>
 using namespace std;
 
-vector<car> CarData::ReadCarData(const char* fileName)
+vector<car> CarData::ReadCarData(string fileName)
 {
 	fstream inf;
 	inf.open(fileName);

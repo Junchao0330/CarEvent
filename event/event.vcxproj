@@ -78,6 +78,8 @@
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
     <LinkIncremental>true</LinkIncremental>
+    <LibraryPath>C:\Users\wangj\source;$(LibraryPath)</LibraryPath>
+    <IncludePath>C:\Users\wangj\source;$(IncludePath)</IncludePath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
     <LinkIncremental>false</LinkIncremental>
@@ -116,11 +118,13 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <AdditionalIncludeDirectories>C:\Program Files\Microsoft Visual Studio\2022\Community\eigen-3.4.0</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Users\wangj\source;C:\Program Files\Microsoft Visual Studio\2022\Community\eigen-3.4.0</AdditionalIncludeDirectories>
+      <RuntimeLibrary>MultiThreadedDebugDLL</RuntimeLibrary>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
       <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalDependencies>SQlite3.lib;%(AdditionalDependencies)</AdditionalDependencies>
     </Link>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
@@ -144,10 +148,12 @@
     <ClCompile Include="event.cpp" />
     <ClCompile Include="kalman.cpp" />
     <ClCompile Include="mapData.cpp" />
+    <ClCompile Include="fakeBeacon.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="carData.h" />
     <ClInclude Include="event.h" />
+    <ClInclude Include="fakeBeacon.h" />
     <ClInclude Include="kalman.h" />
     <ClInclude Include="mapData.h" />
   </ItemGroup>
